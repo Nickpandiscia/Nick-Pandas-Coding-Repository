@@ -1,2 +1,8 @@
 Step 1: Order the pizza
 Step 2: Wait for the delivery
+Step 3: Store is closed. Now we make one.
+Step 4: Get dough
+Step 5: get pizza sauce
+Step 6: Get Cheese
+Step 7: Mix ingredients together
+Step 8: Cook
